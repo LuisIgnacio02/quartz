@@ -1,7 +1,6 @@
 ---
 title: "Psychiatry"
 ---
-#Psychiatry
 
 [[Elimination disorders]]
 	- [[Daytime urinary incontinence]]
