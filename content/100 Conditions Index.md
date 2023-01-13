@@ -6,10 +6,10 @@ title: "100 Conditions Index"
 
 	[[Elimination disorders]]
 	
-		 [[Daytime urinary incontinence]]
+		[[Daytime urinary incontinence]]
 		  
-		 [[Enuresis]]
+		[[Enuresis]]
 		  
-		 [[Encopresis]]
+		[[Encopresis]]
 		  
 [[Pediatrics]]
