@@ -1,3 +1,6 @@
+---
+title: "Psychiatry"
+---
 #Psychiatry
 
 [[Elimination disorders]]
