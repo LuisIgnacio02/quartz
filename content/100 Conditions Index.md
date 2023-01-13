@@ -1,11 +1,3 @@
 [[Psychiatry]]
 
-	[[Elimination disorders]]
-	
-		[[Daytime urinary incontinence]]
-		  
-		[[Enuresis]]
-		  
-		[[Encopresis]]
-		  
 [[Pediatrics]]
