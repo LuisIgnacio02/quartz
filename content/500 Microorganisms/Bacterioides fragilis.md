@@ -1,0 +1,1 @@
+resistant to penicillin due to broad spectrum cephalosporinase, as well as in prevotella melaninogenicus.
