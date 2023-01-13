@@ -2,12 +2,6 @@
 
 [[Antibiotics]]
 
-	[[Cell wall inhibitors]]
-	  
-		[[β-lactam antibiotics]]
-		  
-			[[Penicillins]]
-			  
 [[Antivirals]]
 
 [[Antimycobacterials]]
@@ -20,30 +14,10 @@
 
 [[Antidepressants]]
 
-	[[Selective serotonin-norepinephrine reuptake inhibitors]]
-	  
-	[[Tricyclic antidepressants]]
-	  
 [[Antineoplastics]]
 
 [[Autonomic modulators]]
 
-	[[Cholinergic antagonists]]
-	  
-		[[Muscarinic antagonists]]
-		  
-	[[Cholinergic agonists]]
-	  
-		[[Muscarinic agonists]]
-		  
-	[[α-adrenergic antagonists]]
-	  
-		[[α1-adrenergic antagonists]]
-		  
-	[[β-adrenergic agonists]]
-	  
-		[[β3-adrenergic agonists]]
-		  
 [[Steroids]]
 
 [[Diuretics]]
