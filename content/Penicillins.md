@@ -3,9 +3,13 @@
 ## Classification
 
 Penicillins are classified according to their spectra of activity:
+
 [[Penicillin G and penicillin V]]
+
 [[Penicillinase-resistant penicillins]]
+
 [[Aminopenicillins]]
+
 [[Antipseudomonal penicillins]]
 
 ## Structure

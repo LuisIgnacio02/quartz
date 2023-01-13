@@ -3,10 +3,12 @@
 ## Classification
 
 [[Penicillins]]
-[[Cephalosporins]]
-[[Carbapenems]]
-[[Monobactams]]
 
+[[Cephalosporins]]
+
+[[Carbapenems]]
+
+[[Monobactams]]
 
 ## Structure
 
